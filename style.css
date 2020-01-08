@@ -25,3 +25,18 @@ h3{
     letter-spacing: .01em;
 }
 
+.container{
+    align-items: center;
+}
+
+#rdm-button{
+    background:  fff;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: Oswald;
+    font-size: large;
+    font-weight: 900;
+    width: 10rem;
+}
+
+
